@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Francisco P. 
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently learning python, leetcode challenges, and web development.
+- 💞️ I’m looking to collaborate on projects written in Java, Javascript, and Python.
+- 📫 How to reach me https://www.linkedin.com/in/francisco-padilla-248b5069/ lets get connected!
